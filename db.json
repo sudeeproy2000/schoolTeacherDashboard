@@ -1,0 +1,382 @@
+{
+  "students": [
+    {
+      "index": "1",
+      "school_id": "1a2b3c4d5e6",
+      "school_name": "Kendriya Vidyalaya No.1, Salt Lake",
+      "school_address": "Labony, Salt Lake, 3rd Ave, EB Block, Sector 1, Bidhannagar, Kolkata, West Bengal 700064",
+      " principal": {
+        "name": "S Roy"
+      },
+      "type": "hoeizontal",
+      "student": {
+        "name": "Sudeep Roy",
+        "father_name": "Swapan Roy",
+        "dob": "19/01/2000",
+        "b_group": "O+",
+        "contact_no": "7031032675",
+        "address": "608 Denesik Square, Port Rayfordbury, MN 48505",
+        "class": 10,
+        "section": "A",
+        "roll_no": 1,
+        "marks_first": {
+          "bangla": null,
+          "english": null,
+          "hindi": null,
+          "mathematics": null,
+          "science": null,
+          "socialscience": null
+        },
+        "marks_second": {
+          "bangla": null,
+          "english": null,
+          "hindi": null,
+          "mathematics": null,
+          "science": null,
+          "socialscience": null
+        },
+        "marks_third": {
+          "bangla": null,
+          "english": null,
+          "hindi": null,
+          "mathematics": null,
+          "science": null,
+          "socialscience": null
+        },
+        "marks_fourth": {
+          "bangla": null,
+          "english": null,
+          "hindi": null,
+          "mathematics": null,
+          "science": null,
+          "socialscience": null
+        }
+      },
+      "id": "8edd"
+    },
+    {
+      "index": "2",
+      "school_id": "1a2b3c4d5e6",
+      "school_name": "Kendriya Vidyalaya No.1, Salt Lake",
+      "school_address": "Labony, Salt Lake, 3rd Ave, EB Block, Sector 1, Bidhannagar, Kolkata, West Bengal 700064",
+      " principal": {
+        "name": "S Roy"
+      },
+      "type": "hoeizontal",
+      "student": {
+        "name": "Sudip Das",
+        "father_name": "P Das",
+        "dob": "19/01/1987",
+        "b_group": "AB+",
+        "contact_no": "7031234567",
+        "address": "43035 Johnsie Port, Port Elmira, CT 49298-6961",
+        "class": 10,
+        "section": "A",
+        "roll_no": 2,
+        "marks_first": {
+          "bangla": null,
+          "english": null,
+          "hindi": null,
+          "mathematics": null,
+          "science": null,
+          "socialscience": null
+        },
+        "marks_second": {
+          "bangla": null,
+          "english": null,
+          "hindi": null,
+          "mathematics": null,
+          "science": null,
+          "socialscience": null
+        },
+        "marks_third": {
+          "bangla": null,
+          "english": null,
+          "hindi": null,
+          "mathematics": null,
+          "science": null,
+          "socialscience": null
+        },
+        "marks_fourth": {
+          "bangla": null,
+          "english": null,
+          "hindi": null,
+          "mathematics": null,
+          "science": null,
+          "socialscience": null
+        }
+      },
+      "id": "edc8"
+    },
+    {
+      "index": "3",
+      "school_id": "1a2b3c4d5e6",
+      "school_name": "Kendriya Vidyalaya No.1, Salt Lake",
+      "school_address": "Labony, Salt Lake, 3rd Ave, EB Block, Sector 1, Bidhannagar, Kolkata, West Bengal 700064",
+      " principal": {
+        "name": "S Roy"
+      },
+      "type": "hoeizontal",
+      "student": {
+        "name": "S Roy",
+        "father_name": "D Roy",
+        "dob": "19/02/2000",
+        "b_group": "A+",
+        "contact_no": "7031123475",
+        "address": "70103 Ward Stravenue, New Benedictbury, MN 37616-6713",
+        "class": 10,
+        "section": "A",
+        "roll_no": 3,
+        "marks_first": {
+          "bangla": null,
+          "english": null,
+          "hindi": null,
+          "mathematics": null,
+          "science": null,
+          "socialscience": null
+        },
+        "marks_second": {
+          "bangla": null,
+          "english": null,
+          "hindi": null,
+          "mathematics": null,
+          "science": null,
+          "socialscience": null
+        },
+        "marks_third": {
+          "bangla": null,
+          "english": null,
+          "hindi": null,
+          "mathematics": null,
+          "science": null,
+          "socialscience": null
+        },
+        "marks_fourth": {
+          "bangla": null,
+          "english": null,
+          "hindi": null,
+          "mathematics": null,
+          "science": null,
+          "socialscience": null
+        }
+      },
+      "id": "c5ab"
+    },
+    {
+      "index": "4",
+      "school_id": "1a2b3c4d5e6",
+      "school_name": "Kendriya Vidyalaya No.1, Salt Lake",
+      "school_address": "Labony, Salt Lake, 3rd Ave, EB Block, Sector 1, Bidhannagar, Kolkata, West Bengal 700064",
+      " principal": {
+        "name": "S Roy"
+      },
+      "type": "hoeizontal",
+      "student": {
+        "name": "Sudeep Roy",
+        "father_name": "Swapan Roy",
+        "dob": "19/01/2000",
+        "b_group": "O+",
+        "contact_no": "7031032675",
+        "address": "Suite 960 8549 Langosh Neck, New Shara, VT 24824",
+        "class": 10,
+        "section": "A",
+        "roll_no": 4,
+        "marks_first": {
+          "bangla": null,
+          "english": null,
+          "hindi": null,
+          "mathematics": null,
+          "science": null,
+          "socialscience": null
+        },
+        "marks_second": {
+          "bangla": null,
+          "english": null,
+          "hindi": null,
+          "mathematics": null,
+          "science": null,
+          "socialscience": null
+        },
+        "marks_third": {
+          "bangla": null,
+          "english": null,
+          "hindi": null,
+          "mathematics": null,
+          "science": null,
+          "socialscience": null
+        },
+        "marks_fourth": {
+          "bangla": null,
+          "english": null,
+          "hindi": null,
+          "mathematics": null,
+          "science": null,
+          "socialscience": null
+        }
+      },
+      "id": "2010"
+    },
+    {
+      "index": "5",
+      "school_id": "1a2b3c4d5e6",
+      "school_name": "Kendriya Vidyalaya No.1, Salt Lake",
+      "school_address": "Labony, Salt Lake, 3rd Ave, EB Block, Sector 1, Bidhannagar, Kolkata, West Bengal 700064",
+      " principal": {
+        "name": "S Roy"
+      },
+      "type": "hoeizontal",
+      "student": {
+        "name": "Sudeep Roy",
+        "father_name": "Swapan Roy",
+        "dob": "19/01/2000",
+        "b_group": "O+",
+        "contact_no": "7031032675",
+        "address": "Suite 499 4514 Altenwerth Viaduct, Port Kristofer, NJ 48194-9062",
+        "class": 10,
+        "section": "A",
+        "roll_no": 5,
+        "marks_first": {
+          "bangla": null,
+          "english": null,
+          "hindi": null,
+          "mathematics": null,
+          "science": null,
+          "socialscience": null
+        },
+        "marks_second": {
+          "bangla": null,
+          "english": null,
+          "hindi": null,
+          "mathematics": null,
+          "science": null,
+          "socialscience": null
+        },
+        "marks_third": {
+          "bangla": null,
+          "english": null,
+          "hindi": null,
+          "mathematics": null,
+          "science": null,
+          "socialscience": null
+        },
+        "marks_fourth": {
+          "bangla": null,
+          "english": null,
+          "hindi": null,
+          "mathematics": null,
+          "science": null,
+          "socialscience": null
+        }
+      },
+      "id": "853e"
+    },
+    {
+      "index": "6",
+      "school_id": "1a2b3c4d5e6",
+      "school_name": "Kendriya Vidyalaya No.1, Salt Lake",
+      "school_address": "Labony, Salt Lake, 3rd Ave, EB Block, Sector 1, Bidhannagar, Kolkata, West Bengal 700064",
+      " principal": {
+        "name": "S Roy"
+      },
+      "type": "hoeizontal",
+      "student": {
+        "name": "Samir Roy",
+        "father_name": "Swapan Roy",
+        "dob": "19/01/2000",
+        "b_group": "O+",
+        "contact_no": "7031032675",
+        "address": "6500 Krystal Glen, South Ianmouth, ME 87157-8846",
+        "class": 10,
+        "section": "A",
+        "roll_no": 6,
+        "marks_first": {
+          "bangla": null,
+          "english": null,
+          "hindi": null,
+          "mathematics": null,
+          "science": null,
+          "socialscience": null
+        },
+        "marks_second": {
+          "bangla": null,
+          "english": null,
+          "hindi": null,
+          "mathematics": null,
+          "science": null,
+          "socialscience": null
+        },
+        "marks_third": {
+          "bangla": null,
+          "english": null,
+          "hindi": null,
+          "mathematics": null,
+          "science": null,
+          "socialscience": null
+        },
+        "marks_fourth": {
+          "bangla": null,
+          "english": null,
+          "hindi": null,
+          "mathematics": null,
+          "science": null,
+          "socialscience": null
+        }
+      },
+      "id": "6b15"
+    },
+    {
+      "index": "7",
+      "school_id": "1a2b3c4d5e6",
+      "school_name": "Kendriya Vidyalaya No.1, Salt Lake",
+      "school_address": "Labony, Salt Lake, 3rd Ave, EB Block, Sector 1, Bidhannagar, Kolkata, West Bengal 700064",
+      " principal": {
+        "name": "S Roy"
+      },
+      "type": "hoeizontal",
+      "student": {
+        "name": "Sudeep Roy",
+        "father_name": "Swapan Roy",
+        "dob": "19/01/2000",
+        "b_group": "O+",
+        "contact_no": "7031032675",
+        "address": "115 Hagenes Plain, New Dwayneberg, CA 52776-1425",
+        "class": 10,
+        "section": "A",
+        "roll_no": 7,
+        "marks_first": {
+          "bangla": null,
+          "english": null,
+          "hindi": null,
+          "mathematics": null,
+          "science": null,
+          "socialscience": null
+        },
+        "marks_second": {
+          "bangla": null,
+          "english": null,
+          "hindi": null,
+          "mathematics": null,
+          "science": null,
+          "socialscience": null
+        },
+        "marks_third": {
+          "bangla": null,
+          "english": null,
+          "hindi": null,
+          "mathematics": null,
+          "science": null,
+          "socialscience": null
+        },
+        "marks_fourth": {
+          "bangla": null,
+          "english": null,
+          "hindi": null,
+          "mathematics": null,
+          "science": null,
+          "socialscience": null
+        }
+      },
+      "id": "862f"
+    }
+  ]
+}
